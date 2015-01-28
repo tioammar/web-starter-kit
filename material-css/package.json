@@ -1,0 +1,26 @@
+{
+  "name": "material-styleguide",
+  "version": "0.0.1",
+  "description": "Material Design Style Guide",
+  "main": [
+    "material.min.css",
+    "material.min.js"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/google/material-styleguide"
+  },
+  "keywords": [
+    "material",
+    "design",
+    "kit",
+    "style",
+    "guide"
+  ],
+  "author": "Web Starter Kit team",
+  "license": "Apache-2",
+  "bugs": {
+    "url": "https://github.com/google/material-styleguide/issues"
+  },
+  "homepage": "https://github.com/google/material-styleguide"
+}

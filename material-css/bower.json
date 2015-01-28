@@ -1,0 +1,29 @@
+{
+  "name": "material-styleguide",
+  "version": "0.0.1",
+  "homepage": "https://github.com/google/material-styleguide",
+  "authors": [
+    "Web Starter Kit team"
+  ],
+  "description": "Material Design Style Guide",
+  "main": [
+    "material.min.css",
+    "material.min.js"
+  ],
+  "keywords": [
+    "material",
+    "design",
+    "styleguide",
+    "style",
+    "guide"
+  ],
+  "license": "Apache-2",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "./lib/.bower_components",
+    "test",
+    "tests"
+  ]
+}
